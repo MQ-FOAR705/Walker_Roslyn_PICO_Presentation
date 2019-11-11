@@ -4,3 +4,4 @@ Photographic images are the author's own © Roslyn Walker 2019
 The presentation template is from https://egu2018.eu/PICO_how-to_guide_to_PICO.pdf
 Abstracted and templated by Brian Ballsun-Stanton, Macquarie University.
 Original template by https://github.com/snowtechblog/pico-latex-presentation by Anselm Köhler.
+There is a pdf as a preview to see the result.
